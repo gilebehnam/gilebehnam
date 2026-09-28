@@ -1,11 +1,11 @@
-<p align="center">
+﻿<p align="center">
   <a href="https://behnaam.com"><img src="assets/banner.svg" alt="Behnam Jafari Balalami — Product & Operations Executive" width="100%"></a>
 </p>
 
 <p align="center">
   <a href="https://behnaam.com"><img src="https://img.shields.io/badge/behnaam.com-0B0F17?style=for-the-badge&logo=googlechrome&logoColor=F5B544" alt="Website"></a>
   <a href="https://linkedin.com/in/behnamjafari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.producthunt.com/@behnamjafari"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"></a>
+  <a href="https://www.producthunt.com/@gilebehnam"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"></a>
   <a href="https://t.me/gilebehnam"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://calendly.com/bjafaribox/30min"><img src="https://img.shields.io/badge/Book_30_min-F5B544?style=for-the-badge&logo=calendly&logoColor=0B0F17" alt="Book a call"></a>
 </p>
