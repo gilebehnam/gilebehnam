@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <a href="https://behnaam.com"><img src="assets/banner.svg" alt="Behnam Jafari Balalami — Product & Operations Executive" width="100%"></a>
 </p>
 
@@ -15,13 +15,19 @@ products, businesses and platforms that work in the real world and keep working 
 
 ---
 
-### ⚡ Right now
+### ⚡ Right now: Whalya Venture Studio
+
+I founded **Whalya**, a venture studio. It builds AI products that do real work for small teams, three of them so far:
+
+| Product | What it does | Where |
+|:--|:--|:--|
+| **[Whalyom](https://github.com/gilebehnam/whalyom)** | Your entire marketing department inside Claude Code: 536 AI agents in 28 departments, 106 commands, 50 rules enforced in code. Nothing goes out without your yes. | [whalyom.com](https://whalyom.com) · open source |
+| **[Whalory](https://github.com/gilebehnam/whalory)** | Makes the AI you already use write like a professional copywriter, in English and Persian. | [whalory.com](https://whalory.com) · open-source core |
+| **Whalyon** | AI business-health platform that diagnoses root causes, not symptoms. | Live, free launch |
 
 ```yaml
-building:
-  - Whalyon:  AI business-health platform that diagnoses root causes, not symptoms   # founder · live, free launch
-  - VOHU:     evidence-first publishing for small businesses (vohu.app)              # co-founder · pilot
-  - Whalory:  makes the AI you already use write like a pro copywriter, EN + FA      # open-source core ↓
+studio: Whalya
+products: [Whalyom, Whalory, Whalyon]
 based_in: Tehran (UTC+3:30)
 open_to: [new engagements, relocation]
 ```
@@ -85,4 +91,4 @@ MBA, Information Systems & IT (IAU Science & Research, in progress) · **Founder
   <a href="mailto:bjafaribox@gmail.com">bjafaribox@gmail.com</a> · <a href="https://calendly.com/bjafaribox/30min">Book 30 minutes</a> · <a href="https://behnaam.com/experience">Full record</a>
 </p>
 
-<p align="center"><sub>🇮🇷 مدیر ارشد محصول و عملیات · بنیان‌گذار Whalyon · هم‌بنیان‌گذار VOHU</sub></p>
+<p align="center"><sub>🇮🇷 بنیان‌گذار ونچر استودیوی والیا · والیوم، والوری، والیون</sub></p>
