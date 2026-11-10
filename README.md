@@ -23,7 +23,7 @@ I founded **Whalya**, a venture studio. It builds AI products that do real work 
 |:--|:--|:--|
 | **[Whalyom](https://github.com/gilebehnam/whalyom)** | Your entire marketing department inside Claude Code: 536 AI agents in 28 departments, 106 commands, 50 rules enforced in code. Nothing goes out without your yes. | [whalyom.com](https://whalyom.com) · open source |
 | **[Whalory](https://github.com/gilebehnam/whalory)** | Makes the AI you already use write like a professional copywriter, in English and Persian. | [whalory.com](https://whalory.com) · open-source core |
-| **Whalyon** | AI business-health platform that diagnoses root causes, not symptoms. | Live, free launch |
+| **[Whalyon](https://github.com/gilebehnam/whalyon)** | A health check for your business: 40 statements, 8 areas, a report card that finds the root cause, not the symptom. | [whalyon.com](https://whalyon.com) · live, free launch |
 
 ```yaml
 studio: Whalya
@@ -48,7 +48,7 @@ open_to: [new engagements, relocation]
 
 | Venture | Domain | The problem | What happened |
 |:--|:--|:--|:--|
-| **Whalyon** | AI · Ops | Businesses treat symptoms, not root causes | Live, free launch phase |
+| **[Whalyon](https://whalyon.com)** | AI · Ops | Businesses treat symptoms, not root causes | Live, free launch phase |
 | **Shalize** | Precious metals | A gold business run on WhatsApp and memory | 0.5 → 10 kg/day · 4,000+ verified customers |
 | **Ketabno** | Social reading | Teenagers stop reading because it is solitary | Launched in ~3 months · Ministry of Education partner |
 | **Invest Iran** | FDI platform | An investment agency with no digital surface | Full investor journey architected |
