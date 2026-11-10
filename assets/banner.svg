@@ -44,9 +44,9 @@
     <text x="1050" y="274" fill="#D5D3C8" text-anchor="middle">WHALYON</text>
   </g>
 
-  <text x="64" y="84" class="mono" font-size="15" letter-spacing="3" fill="#E4BE4B">WHALYA / VENTURE STUDIO<tspan class="blink"> ▍</tspan></text>
+  <text x="64" y="84" class="mono" font-size="15" letter-spacing="3" fill="#E4BE4B">WHALYA / PRODUCT-LED VENTURE STUDIO<tspan class="blink"> ▍</tspan></text>
   <text x="62" y="158" class="sans" font-size="54" font-weight="800" fill="#F4F2EC">Behnam Jafari Balalami</text>
-  <text x="64" y="202" class="sans" font-size="24" font-weight="500" fill="#D5D3C8">Founder, Whalya Venture Studio</text>
+  <text x="64" y="202" class="sans" font-size="24" font-weight="500" fill="#D5D3C8">Founder, Whalya</text>
   <rect x="64" y="226" width="120" height="4" rx="2" fill="url(#accent)"/>
   <text x="64" y="268" class="sans" font-size="17" fill="#A8B8BA">Whalyom · a marketing department in Claude Code</text>
   <text x="64" y="294" class="sans" font-size="17" fill="#A8B8BA">Whalory · copy that sounds like you   ·   Whalyon · business health</text>

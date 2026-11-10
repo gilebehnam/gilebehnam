@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://behnaam.com"><img src="assets/banner.svg" alt="Behnam Jafari Balalami — Product & Operations Executive" width="100%"></a>
+  <a href="https://behnaam.com"><img src="assets/banner.svg" alt="Behnam Jafari Balalami, Founder of Whalya" width="100%"></a>
 </p>
 
 <p align="center">
@@ -7,6 +7,8 @@
   <a href="https://linkedin.com/in/behnamjafari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.producthunt.com/@gilebehnam"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"></a>
   <a href="https://t.me/gilebehnam"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.instagram.com/gilebehnam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/whalya-studio"><img src="https://img.shields.io/badge/Whalya-18243A?style=for-the-badge&logo=github&logoColor=white" alt="Whalya on GitHub"></a>
   <a href="https://calendly.com/bjafaribox/30min"><img src="https://img.shields.io/badge/Book_30_min-F5B544?style=for-the-badge&logo=calendly&logoColor=0B0F17" alt="Book a call"></a>
 </p>
 
@@ -15,9 +17,9 @@ products, businesses and platforms that work in the real world and keep working 
 
 ---
 
-### ⚡ Right now: Whalya Venture Studio
+### ⚡ Right now: Whalya
 
-I founded **[Whalya](https://github.com/whalya-studio)**, a venture studio. It builds AI products that do real work for small teams, three of them so far:
+I founded **[Whalya](https://github.com/whalya-studio)**, a product-led venture studio. It builds AI products that do real work for small teams, three of them so far:
 
 | Product | What it does | Where |
 |:--|:--|:--|
