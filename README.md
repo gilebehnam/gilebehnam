@@ -17,7 +17,7 @@ products, businesses and platforms that work in the real world and keep working 
 
 ### ⚡ Right now: Whalya Venture Studio
 
-I founded **Whalya**, a venture studio. It builds AI products that do real work for small teams, three of them so far:
+I founded **[Whalya](https://github.com/whalya-studio)**, a venture studio. It builds AI products that do real work for small teams, three of them so far:
 
 | Product | What it does | Where |
 |:--|:--|:--|
